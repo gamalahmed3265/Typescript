@@ -1,18 +1,6 @@
 "use strict";
-let ename = "famal";
-let age = 35;
-let hire = false;
-let tename = "famal";
-let tage = 35;
-let thire = false;
-let all = 343;
-let alle = "known";
-alle = "a";
-alle = 344;
-all = true;
-let myfiends = ["asfsf", "dsaf"];
-for (let index = 0; index < myfiends.length; index++) {
-    const element = myfiends[index];
-    console.log(element);
-}
+let array1 = [3, 4, 3, 21];
+let array2 = ["3", "4", "3", "21"];
+let array3 = ["3", "4", "3", "21", 3, 4, 3, 21];
+let array4 = ["3", "4", "3", "21", 3, 4, 3, 21, ["4", "3", "21"]];
 //# sourceMappingURL=index.js.map
